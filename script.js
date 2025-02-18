@@ -1,5 +1,5 @@
 
-let dayCount = new Date('Feb 18, 2025 15:27:00').getTime();
+let dayCount = new Date('Dec 31, 2025 00:00:00').getTime();
 let isCountdownOver = false;
 
 let count = setInterval(function() {
